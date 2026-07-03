@@ -1,0 +1,236 @@
+{
+    "Apple___Apple_scab": {
+        "label": 0,
+        "plant": "Apple",
+        "disease": "Apple_scab",
+        "status": "Diseased"
+    },
+    "Apple___Black_rot": {
+        "label": 1,
+        "plant": "Apple",
+        "disease": "Black_rot",
+        "status": "Diseased"
+    },
+    "Apple___Cedar_apple_rust": {
+        "label": 2,
+        "plant": "Apple",
+        "disease": "Cedar_apple_rust",
+        "status": "Diseased"
+    },
+    "Apple___healthy": {
+        "label": 3,
+        "plant": "Apple",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Background_without_leaves": {
+        "label": 4,
+        "plant": "Background_without_leaves",
+        "disease": "Unknown",
+        "status": "Diseased"
+    },
+    "Blueberry___healthy": {
+        "label": 5,
+        "plant": "Blueberry",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Cherry___Powdery_mildew": {
+        "label": 6,
+        "plant": "Cherry",
+        "disease": "Powdery_mildew",
+        "status": "Diseased"
+    },
+    "Cherry___healthy": {
+        "label": 7,
+        "plant": "Cherry",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+        "label": 8,
+        "plant": "Corn",
+        "disease": "Cercospora_leaf_spot Gray_leaf_spot",
+        "status": "Diseased"
+    },
+    "Corn___Common_rust": {
+        "label": 9,
+        "plant": "Corn",
+        "disease": "Common_rust",
+        "status": "Diseased"
+    },
+    "Corn___Northern_Leaf_Blight": {
+        "label": 10,
+        "plant": "Corn",
+        "disease": "Northern_Leaf_Blight",
+        "status": "Diseased"
+    },
+    "Corn___healthy": {
+        "label": 11,
+        "plant": "Corn",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Grape___Black_rot": {
+        "label": 12,
+        "plant": "Grape",
+        "disease": "Black_rot",
+        "status": "Diseased"
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "label": 13,
+        "plant": "Grape",
+        "disease": "Esca_(Black_Measles)",
+        "status": "Diseased"
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "label": 14,
+        "plant": "Grape",
+        "disease": "Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "status": "Diseased"
+    },
+    "Grape___healthy": {
+        "label": 15,
+        "plant": "Grape",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "label": 16,
+        "plant": "Orange",
+        "disease": "Haunglongbing_(Citrus_greening)",
+        "status": "Diseased"
+    },
+    "Peach___Bacterial_spot": {
+        "label": 17,
+        "plant": "Peach",
+        "disease": "Bacterial_spot",
+        "status": "Diseased"
+    },
+    "Peach___healthy": {
+        "label": 18,
+        "plant": "Peach",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "label": 19,
+        "plant": "Pepper,_bell",
+        "disease": "Bacterial_spot",
+        "status": "Diseased"
+    },
+    "Pepper,_bell___healthy": {
+        "label": 20,
+        "plant": "Pepper,_bell",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Potato___Early_blight": {
+        "label": 21,
+        "plant": "Potato",
+        "disease": "Early_blight",
+        "status": "Diseased"
+    },
+    "Potato___Late_blight": {
+        "label": 22,
+        "plant": "Potato",
+        "disease": "Late_blight",
+        "status": "Diseased"
+    },
+    "Potato___healthy": {
+        "label": 23,
+        "plant": "Potato",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Raspberry___healthy": {
+        "label": 24,
+        "plant": "Raspberry",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Soybean___healthy": {
+        "label": 25,
+        "plant": "Soybean",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Squash___Powdery_mildew": {
+        "label": 26,
+        "plant": "Squash",
+        "disease": "Powdery_mildew",
+        "status": "Diseased"
+    },
+    "Strawberry___Leaf_scorch": {
+        "label": 27,
+        "plant": "Strawberry",
+        "disease": "Leaf_scorch",
+        "status": "Diseased"
+    },
+    "Strawberry___healthy": {
+        "label": 28,
+        "plant": "Strawberry",
+        "disease": "healthy",
+        "status": "Healthy"
+    },
+    "Tomato___Bacterial_spot": {
+        "label": 29,
+        "plant": "Tomato",
+        "disease": "Bacterial_spot",
+        "status": "Diseased"
+    },
+    "Tomato___Early_blight": {
+        "label": 30,
+        "plant": "Tomato",
+        "disease": "Early_blight",
+        "status": "Diseased"
+    },
+    "Tomato___Late_blight": {
+        "label": 31,
+        "plant": "Tomato",
+        "disease": "Late_blight",
+        "status": "Diseased"
+    },
+    "Tomato___Leaf_Mold": {
+        "label": 32,
+        "plant": "Tomato",
+        "disease": "Leaf_Mold",
+        "status": "Diseased"
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "label": 33,
+        "plant": "Tomato",
+        "disease": "Septoria_leaf_spot",
+        "status": "Diseased"
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "label": 34,
+        "plant": "Tomato",
+        "disease": "Spider_mites Two-spotted_spider_mite",
+        "status": "Diseased"
+    },
+    "Tomato___Target_Spot": {
+        "label": 35,
+        "plant": "Tomato",
+        "disease": "Target_Spot",
+        "status": "Diseased"
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "label": 36,
+        "plant": "Tomato",
+        "disease": "Tomato_Yellow_Leaf_Curl_Virus",
+        "status": "Diseased"
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "label": 37,
+        "plant": "Tomato",
+        "disease": "Tomato_mosaic_virus",
+        "status": "Diseased"
+    },
+    "Tomato___healthy": {
+        "label": 38,
+        "plant": "Tomato",
+        "disease": "healthy",
+        "status": "Healthy"
+    }
+}
